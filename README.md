@@ -30,8 +30,6 @@ Below is a snapshot of the fraud detection dataset used in this project:
 
 # 📊 Visualizations
 
-# 📊 Visualizations
-
 ## Transaction Types
 ![Transaction Types](images/Transactions_Types.png)
 
