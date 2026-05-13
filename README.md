@@ -22,9 +22,14 @@ Financial fraud has become a major challenge in digital transactions. This proje
 
 ##  Dataset Preview
 
+The original dataset used in this project is too large to upload to GitHub due to file size limitations.
+
 Below is a snapshot of the fraud detection dataset used in this project:
 
 ![Dataset Preview](images/dataset.png)
+
+You can download the complete dataset from the link below:
+https://www.kaggle.com/datasets/amanalisiddiqui/fraud-detection-dataset?resource=download
 
 ---
 
